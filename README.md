@@ -13,9 +13,7 @@ Leave a star before you leave ⭐
 ### Here's how AugmentImg is used
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/zamalali/AugmentImg/main/images/MyYoutube.gif" alt="User Interface">
-</div>
+
 
 ## Features
 
